@@ -14,7 +14,7 @@ For a more thorough summary of my skills and experiences, you can check out my p
 
 ## Projects
 
-*(Coming Soon)*
+- [SPY FBProphet Project](https://github.com/Arshia-Feiz/Arshia-Feiz/tree/main/SPY_FBProphet_Project)
 
 ## Get in Touch
 
