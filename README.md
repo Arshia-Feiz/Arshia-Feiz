@@ -7,8 +7,8 @@ For a more thorough summary of my skills and experiences, you can check out my p
 
 ## About Me
 
-- 🏫 **Education:** Industrial Engineering with a Minor in Mathematics at the University of Toronto
-- 🥇 **Awards:** International Experience Award (65 recipients out of 50,000 students)
+- 🏫 **Education:** Industrial Engineering with a Minor in Business at the University of Toronto
+- 🥇 **Awards:** International Experience Award 
 - 💻 **Technical Skills:** C, Python, Java, Pytorch, Tensorflow, FB Prophet, React, JavaScript, Three.js
 - 🌱 **Currently Exploring:** Advanced optimization techniques, AI in socio-technical systems
 
