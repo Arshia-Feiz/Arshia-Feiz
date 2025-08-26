@@ -14,7 +14,7 @@ For a more thorough summary of my skills and experiences, you can check out my p
 
 ## Past Projects
 
-- - [Scotia Swipe – 2nd Place at S:\HA>KS 2025](https://github.com/Arshia-Feiz/ScotiaSwiped) - A social-media-inspired solution helping customers manage subscriptions and improve financial literacy
+- [Scotia Swipe – 2nd Place at S:\HA>KS 2025](https://github.com/Arshia-Feiz/ScotiaSwiped) - A social-media-inspired solution helping customers manage subscriptions and improve financial literacy
 - [Abstractive Summary & Image Generation Model](https://github.com/Arshia-Feiz/Abstractive-summary-Image-generation-Model_APS360) - A pipeline that takes financial news, creates summaries, and generates images using those summaries
 - [BMW & Mercedes-Benz Forecasting with Facebook Prophet](https://github.com/Arshia-Feiz/bmw-mercedes-prophet-forecasting) - Time series forecasting for automotive technology trends using Facebook Prophet
 - [Model-Based Technology Forecasting & Game Theory](https://github.com/Arshia-Feiz/model-based-technology-forecasting) - Recreating academic research on technology forecasting and competitive modeling
