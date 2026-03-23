@@ -7,9 +7,9 @@ For a more thorough summary of my skills and experiences, you can check out my p
 
 ## About Me
 
-- 🏫 **Education:** Industrial Engineering with a Minor in AI at the University of Toronto
+- **Education:** Industrial Engineering with a Minor in AI at the University of Toronto
 - **Technical Skills:** Python, Java, JavaScript, HTML, CSS, Node.js, Numpy, Pandas, Pytorch
-- 🌱 **Currently Exploring:** Quantitative Research in Commodities and Cryptocurrency
+- **Currently Exploring:** Quantitative Research in Commodities and Cryptocurrency
 
 ## Past Projects
 
