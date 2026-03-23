@@ -13,6 +13,7 @@ For a more thorough summary of my skills and experiences, you can check out my p
 
 ## Past Projects
 
+- [R.I.S.E. – 1st Place & People's Choice at Hack the Globe 2026](https://github.com/Arshia-Feiz/Hack_The_Globe_2026_RISE) - A community-vouched alternative credit scoring and micro-lending platform built with LightGBM, SHAP, FastAPI, and React
 - [Commodities NLP Trading Strategy](https://github.com/Arshia-Feiz/commodities-nlp-strategy) – An end-to-end quantitative research project that builds NLP-driven trading signals for commodity markets, including text preprocessing, topic modeling, sentiment extraction, feature engineering, and backtesting
 - [Scotia Swipe – 2nd Place at S:\HA>KS 2025](https://github.com/Arshia-Feiz/ScotiaSwiped) - A social-media-inspired solution helping customers manage subscriptions and improve financial literacy
 - [Abstractive Summary & Image Generation Model](https://github.com/Arshia-Feiz/Abstractive-summary-Image-generation-Model_APS360) - A pipeline that takes financial news, creates summaries, and generates images using those summaries
